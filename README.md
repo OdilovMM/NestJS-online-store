@@ -62,5 +62,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
--   Github - [https://nestjs.com](https://github.com/OdilovMM)
--   LinkedIn - [@nestframework](https://www.linkedin.com/in/odilov-madaminjon-2b1414317/)
+-   Github - [OdilovXM](https://github.com/OdilovMM)
+-   LinkedIn - [OdilovXM](https://www.linkedin.com/in/odilov-madaminjon-2b1414317/)
